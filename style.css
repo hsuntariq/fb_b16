@@ -1,0 +1,14 @@
+
+span{
+    padding: 0.3rem;;
+    clip-path: circle();
+}
+
+.underlay{
+    /* transition: all 0.7s; */
+ transform: translateY(-110%);
+}
+
+.reg-card {
+    opacity: 0;
+}
